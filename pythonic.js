@@ -1,7 +1,7 @@
 const db = require("quick.db");
 const discord = require("discord.js");
 const client = new discord.Client({ disableEveryone: true });
-client.login("MTA0NzI0OTM1ODEyNDQ4NjcyNg.G0CLyF.CAfgqL1-RZerZegXpdTTtzNnNb7xpXsxR76b8c");//tokeni buraya yazınız YOKSA ÇALIŞMAZ
+client.login("MTA0ODYyNzE3MDUyNTg1OTg1MQ.GavHgn.2G1VTtEfvrYC-56bVrMRz7JdvQil1vAO5DJlI8");//tokeni buraya yazınız YOKSA ÇALIŞMAZ
 const fetch = require("node-fetch");
 const fs = require("fs");
 require("express")().listen(1343);
